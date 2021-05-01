@@ -1,0 +1,5 @@
+beautifulsoup4
+pysocks
+python-telegram-bot
+requests
+stem

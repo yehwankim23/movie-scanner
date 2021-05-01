@@ -1,0 +1,66 @@
+html {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  background-color: #222;
+  font-family: "Noto Sans KR", sans-serif;
+  font-size: 4vmin;
+  color: #ddd;
+  line-height: 1.25;
+  word-break: keep-all;
+  touch-action: manipulation;
+}
+
+div {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+a {
+  color: #88f;
+  text-decoration: none;
+}
+
+.m-a {
+  margin: auto;
+}
+
+.mt-5 {
+  margin-top: 5vmin;
+}
+
+.mt-10 {
+  margin-top: 10vmin;
+}
+
+.mb-20 {
+  margin-bottom: 20vmin;
+}
+
+.w-80 {
+  width: 80vmin;
+}
+
+.fs-2 {
+  font-size: 2vmin;
+}
+
+.fs-8 {
+  font-size: 8vmin;
+}
+
+.c-gray {
+  color: #888;
+}
+
+.c-red {
+  color: #f88;
+}
+
+.ai-c {
+  align-items: center;
+}
